@@ -7,3 +7,6 @@ ipywidgets
 ipympl
 ipyleaflet
 jupyterlab
+jupyter_rfb
+sys
+socket
